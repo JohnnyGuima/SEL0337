@@ -8,3 +8,4 @@ Este repositório é dedicado ao desenvolvimento de atividades para a disciplina
 
 ### Projetos em Sistemas Embarcados - Atividade Prática 6
 Introdução às interfaces de visão computacional, sistemas de versionamento de arquivos e controle de acesso via Tags
+
