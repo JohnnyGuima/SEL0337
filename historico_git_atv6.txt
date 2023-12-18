@@ -1,11 +1,5 @@
-commit 8f5c8b2e33b697113de5066b155ed9ccf72ef11e
-Author: gabinamieoka <gabinamieo@usp.br>
 Date:   Mon Dec 18 13:07:53 2023 -0300
-
-    Commit - atividade 6
+Commit - atividade 6
 
 commit 533a9af47950f307340e6a464e9581ee23be23b5
 Author: Johnny Caselato Guimarães <63759539+JohnnyGuima@users.noreply.github.com>
-Date:   Fri Dec 15 23:27:51 2023 -0300
-
-    Initial commit
