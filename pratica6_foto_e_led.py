@@ -36,7 +36,8 @@ while True:
 	im = picam2.capture_array()
 	grey = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
 	faces = face_detector.detectMultiScale(grey, 1.1 , 5 )
-	
+
+	#Se detectar um ou mais faces, então acende o LED, caso contrário, apaga
 	print(len(faces))
 	if(len(faces) > 0):
 			
