@@ -9,3 +9,7 @@ Este repositório é dedicado ao desenvolvimento de atividades para a disciplina
 ### Projetos em Sistemas Embarcados - Atividade Prática 6
 Introdução às interfaces de visão computacional, sistemas de versionamento de arquivos e controle de acesso via Tags
 
+#### Parte 1: Registro e Leitura de TAG RFID
+![Monstagem e teste do controle de acesso](Pratica6_TAG.jpg)
+
+#### Parte 2: Reconhecimento de faces com câmera
